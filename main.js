@@ -12,7 +12,7 @@ document.getElementById("status").innerHTML = "Status : Detecting Objects";
 function preload()
 {
 img = loadImage('dog_cat.jpg'); 
-img2 = loadImage('image1.webp');   
+img2 = loadImage('download.jpg');   
 }
 
 function draw()
